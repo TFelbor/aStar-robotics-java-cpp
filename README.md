@@ -1,4 +1,4 @@
-# Robot Navigation and Control System
+# CPSC271 : Topics in CS Final Project - Robot Navigation and Control System
 
 This project implements a robot navigation system that combines path planning using the A* algorithm and physical robot movement control. The system is designed to help a robot navigate through a maze or grid-like environment while avoiding obstacles, using line-following sensors for precise movement control.
 
